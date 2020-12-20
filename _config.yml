@@ -6,15 +6,16 @@
 # --- Required options --- #
 
 # Name of website
-title: Fall 2020 MECA 482 Loaded Die Cubli
+title: Fall 2020 MECA 482 Controls Project
 
 # Your name to show in the footer
-author: Conor Hargan
+author: Conor Hargan, Jose Blancarte, James Bloesch, 
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Youtube Video: "https://youtu.be/GWXXsxa2moA"
+  Presentation Video: "https://youtu.be/GWXXsxa2moA"
+  Simulation Video: "https://www.youtube.com/watch?v=DPEvF8l9LDM"
 
 # --- Logo --- #
 
