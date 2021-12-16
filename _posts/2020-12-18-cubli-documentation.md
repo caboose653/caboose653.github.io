@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Documentation
-subtitle: Mathematical Model and Controller Components for Cubli System
+subtitle: Mathematical Model and Controller Components for Ball on Plate System
 cover-img: /assets/img/Cubli-balancing-robot.jpg
 thumbnail-img: /assets/img/Balance-block-unilateral-self-balancing-cubli-block.jpg
 share-img: /assets/img/Cubli-balancing-robot.jpg
