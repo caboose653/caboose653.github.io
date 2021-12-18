@@ -12,4 +12,6 @@ share-img: /assets/img/ball_on_plate_wide.jpeg
 ![Page 3 of the report](/assets/img/Report_pg3.jpg)
 ![Page 4 of the report](/assets/img/Report_pg4.jpg)
 ![Page 5 of the report](/assets/img/Report_pg5.jpg)
-
+![Page 6 of the report](/assets/img/Report_pg6.jpg)
+![Page 7 of the report](/assets/img/Report_pg7.jpg)
+![Page 8 of the report](/assets/img/Report_pg8.jpg)
